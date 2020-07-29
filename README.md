@@ -1,7 +1,9 @@
 <h3>Hello World :earth_americas: :earth_africa: :earth_asia:</h3>
 <h4>:star:My name is Gurinderpreet, or Gurinder for short.:star:</h4>
 <h4>I am a FullStack Developer trained by the UC Davis Coding Bootcamp. I began my journey with the MERN stack, but I am currently working on adding skills to my arsenal. :sweat_smile: My current venture includes diversifying my experience with JavaScript and I am also improving my work with Python.</h4>
-  
+
+<img src="./fsd-badge.png" width="70px" height="70px" text-align="right">  
+
 <h4>You can find my portfolio <a href="https://gurinder-portfolio.herokuapp.com/">here</a> for more information.</h4>
 
 <h5>Whether it's a conversation about bootcamps or critique about my portfolio, feel free to contact me! :smiley:</h5>
