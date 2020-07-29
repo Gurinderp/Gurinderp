@@ -8,7 +8,7 @@
 <h4>Get in touch with me! Lets chat. :iphone:</h4>
 <ul>
   <li>sgurinderpreet@gmail.com</li>
-  <li><a href="https://www.linkedin.com/in/gurinderpreet-singh/" />LinkedIn</li>
+  <li><a href="https://www.linkedin.com/in/gurinderpreet-singh/">LinkedIn</a></li>
 </ul>
 
 :point_down: :point_down: :point_down: Check out some of my work! :point_down: :point_down: :point_down:
