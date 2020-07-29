@@ -11,6 +11,7 @@
   <li><a href="https://www.linkedin.com/in/gurinderpreet-singh/" />LinkedIn</li>
 </ul>
 
+:point_down: :point_down: :point_down: Check out some of my work! :point_down: :point_down: :point_down:
 <!--
 **Gurinderp/Gurinderp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
