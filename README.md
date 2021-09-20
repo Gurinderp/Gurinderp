@@ -2,11 +2,13 @@
 <h4>:star:My name is Gurinderpreet, or Gurinder for short.:star:</h4>
 <h4>I am a FullStack Developer with a certificate from the UC Davis Coding Bootcamp. I began my journey with basic web development - HTML, CSS, and JavaScript - and later enrolled in a bootcamp to learn the MERN stack. I am currently working on adding skills to my arsenal. :sweat_smile: </h4> 
 
-<h4>My current venture includes diversifying my experience with JavaScript and I am also improving my work with Java and OOP.</h4> 
+<h4>I am making progress for a degree in Computer Science. The courses I have taken have helped me better understand Design Patterns, Data Structures, and Algorithm Development.</h4>
 
-<h4>You can find my portfolio <a href="https://gurinder-portfolio.herokuapp.com/">here</a> for more information.</h4>
+<h4>I am currently working on improving my knowledge of C#/.NET, OOP, AWS, Azure, SQL, microservices, unit testing, and Continuous Integration through an apprenticeship. </h4>
 
-<h5>Whether it's a conversation about bootcamps or critique about my portfolio, feel free to contact me! :smiley:</h5>
+<h4>You can find my portfolio <a href="https://gurinder-portfolio.herokuapp.com/">here</a> for more information about my skills and the projects I have created.</h4>
+
+<h5>Feel free to contact me! :smiley:</h5>
 <h4>Get in touch with me! Lets chat. :iphone:</h4>
 <ul>
   <li>sgurinderpreet@gmail.com</li>
