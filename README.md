@@ -1,10 +1,8 @@
 <h3>Hello World :earth_americas: :earth_africa: :earth_asia:</h3>
 <h4>:star:My name is Gurinderpreet, or Gurinder for short.:star:</h4>
-<h4>I am a FullStack Developer with a certificate from the UC Davis Coding Bootcamp. I began my journey with basic web development - HTML, CSS, and JavaScript - and later enrolled in a bootcamp to learn the MERN stack. I am currently working on adding skills to my arsenal. :sweat_smile: </h4> 
+<h4>I am a FullStack Developer with a certificate from the UC Davis Coding Bootcamp for MERN the stack, I've completed an apprenticeship for .NET core through Woz U, and I have used C/C++ for several projects at the college I attend. I am currently working on improving my computer science fundamentals knowledge while also self-teaching PHP.</h4> 
 
 <h4>I am making progress for a degree in Computer Science. The courses I have taken have helped me better understand Design Patterns, Data Structures, and Algorithm Development.</h4>
-
-<h4>I am currently working on improving my knowledge of C#/.NET, OOP, AWS, Azure, SQL, microservices, unit testing, and Continuous Integration through an apprenticeship. </h4>
 
 <h4>You can find my portfolio <a href="https://gurinder-portfolio.herokuapp.com/">here</a> for more information about my skills and the projects I have created.</h4>
 
